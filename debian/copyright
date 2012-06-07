@@ -1,0 +1,8 @@
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: progress
+Upstream-Contact: Giorgos Verigakis <verigak@gmail.com>
+Source: <https://github.com/verigak/colors>
+
+Files: *
+Copyright: Giorgos Verigakis <verigak@gmail.com>
+License: MIT

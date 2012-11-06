@@ -1,5 +1,5 @@
-python-ansicolors (1.0.1-1) unstable; urgency=low
+python-ansicolors (1.0.1-1ubuntu1) precise; urgency=low
 
   * New upstream version
 
- -- Kostas Papadimitriou <kpap@grnet.gr>  Wed, 04 Apr 2012 14:49:35 +0300
+ -- Nikos Skalkotos <skalkoto@grnet.gr>  Thu, 01 Nov 2012 15:22:52 +0200

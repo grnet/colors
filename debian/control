@@ -15,5 +15,6 @@ Depends: ${shlibs:Depends},
  ${misc:Depends},
  ${python:Depends},
 Provides: ${python:Provides}
-Description: A simple module to add ANSI colors and decorations to your strings.
+Description: ANSI colors for Python
+ A simple module to add ANSI colors and decorations to your strings.
 

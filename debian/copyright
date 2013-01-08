@@ -4,5 +4,8 @@ Upstream-Contact: Giorgos Verigakis <verigak@gmail.com>
 Source: <https://github.com/verigak/colors>
 
 Files: *
-Copyright: Giorgos Verigakis <verigak@gmail.com>
+Copyright: 2012 Giorgos Verigakis <verigak@gmail.com>
 License: MIT
+ Permission to use, copy, modify, and distribute this software for any
+ purpose with or without fee is hereby granted, provided that the above
+ copyright notice and this permission notice appear in all copies.

@@ -1,3 +1,9 @@
+python-ansicolors (1.0.1-1ubuntu2) precise; urgency=low
+
+  * Correct the maintainer
+
+ -- Nikos Skalkotos <skalkoto@grnet.gr>  Tue, 08 Jan 2013 23:28:18 +0200
+
 python-ansicolors (1.0.1-1ubuntu1) precise; urgency=low
 
   * New upstream version

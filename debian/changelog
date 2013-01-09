@@ -1,3 +1,9 @@
+python-ansicolors (1.0.1-1ubuntu3) precise; urgency=low
+
+  * Fix copywrite file
+
+ -- Nikos Skalkotos <skalkoto@grnet.gr>  Wed, 09 Jan 2013 12:22:07 +0200
+
 python-ansicolors (1.0.1-1ubuntu2) precise; urgency=low
 
   * Correct the maintainer

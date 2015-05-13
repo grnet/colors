@@ -1,7 +1,7 @@
 Source: python-ansicolors
 Section: python
 Priority: extra
-Maintainer: Kostas Papadimitriou <kpap@grnet.gr>
+Maintainer: Nikos Skalkotos <skalkoto@grnet.gr>
 Build-Depends: debhelper (>= 8.0.0), python, python-setuptools
 Standards-Version: 3.9.3
 Homepage: https://github.com/verigak/colors
@@ -15,5 +15,6 @@ Depends: ${shlibs:Depends},
  ${misc:Depends},
  ${python:Depends},
 Provides: ${python:Provides}
-Description: A simple module to add ANSI colors and decorations to your strings.
+Description: ANSI colors for python
+ A simple module to add ANSI colors and decorations to your strings.
 

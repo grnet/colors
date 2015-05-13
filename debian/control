@@ -2,8 +2,8 @@ Source: python-ansicolors
 Section: python
 Priority: extra
 Maintainer: Nikos Skalkotos <skalkoto@grnet.gr>
-Build-Depends: debhelper (>= 8.0.0), python, python-setuptools
-Standards-Version: 3.9.3
+Build-Depends: debhelper (>= 8.0.0), python, python-setuptools, dh-python
+Standards-Version: 3.9.6
 Homepage: https://github.com/verigak/colors
 Vcs-Browser: https://github.com/verigak/colors
 Vcs-Git: https://github.com/verigak/colors.git
